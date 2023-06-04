@@ -8,7 +8,9 @@ The CNN_LSTM_univariate_multistep_output_github file is the main file for runnin
 Note: The notebook files have been tested on Google Colab. 
 # Model
 The model is a CNN-LSTM architecture encoder-decoder architecture:
+
 ![image](https://github.com/muntasirhsn/CNN-LSTM-model-for-energy-usage-forecasting/assets/29087240/c2ecd128-a209-4a4b-ab7a-6e183865631a)
 # Farecasting
 Multi-step energy usage forecasting (12 weeks) with CNN-LSTM encoder-decoder model with a Root Mean Squared Error (RMSE) of 6.29.
+
 ![image](https://github.com/muntasirhsn/CNN-LSTM-model-for-energy-usage-forecasting/assets/29087240/835d43c9-331b-4bb4-876b-c20cac6a4066)
